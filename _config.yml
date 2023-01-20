@@ -1,4 +1,4 @@
-remote_theme: minima@main
+remote_theme: pages-theme/hacker
 plugins:
 - jekyll-remote-theme
 
