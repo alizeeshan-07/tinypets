@@ -2,8 +2,8 @@ remote_theme: benbalter/retlab
 plugins:
 - jekyll-remote-theme
 
-title: Jeremy Howard
+title: Ali Zeeshan
 description: Some basic examples of client interfaces to a computer vision API
 
 author:
-  name: Jeremy Howard
+  name: Ali Zeeshan
